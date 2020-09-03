@@ -9,7 +9,7 @@ author_profile: true
 | **Status** | **Title**  | **Author(s)** | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |------------|------------|---------------|--------------|-----------|------------|-----------|-----------|------------|
 | In review  | Continent-wide tree fecundity driven by indirect climate effects | J.S. Clark et al. | | | | | | |
-| Accepted   | Trends and transitions in 150 years of The American Naturalist | V.B Smocovitis, D.I. Bolnick, C.M. Moore, P.L. Morse | The American Naturalist | | | | [Link](https://datadryad.org/stash/dataset/doi:10.5061/dryad.msbcc2fw9) | |
+| Accepted   | Trends and transitions in 150 years of The American Naturalist | V.B Smocovitis, D.I. Bolnick, C.M. Moore, P.L. Morse | The American Naturalist | [Link](https://www.journals.uchicago.edu/doi/10.1086/711418) | | | [Data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.msbcc2fw9) | |
 
 ## Peer-reviewed publications
 
