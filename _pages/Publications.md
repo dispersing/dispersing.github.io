@@ -6,9 +6,9 @@ author_profile: true
 ---
 ## Preprint, submitted, accepted, or in press
 
-| **Status** | **Title**  | **Author(s)** | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
+<!--- | **Status** | **Title**  | **Author(s)** | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |------------|------------|---------------|--------------|-----------|------------|-----------|-----------|------------|
-<!--- | In press   | Continent-wide tree fecundity driven by indirect climate effects | J.S. Clark et al. | Nature Communications | | | | | | --->
+| In press   | Continent-wide tree fecundity driven by indirect climate effects | J.S. Clark et al. | Nature Communications | | | | | | --->
 
 ## Peer-reviewed publications
 
