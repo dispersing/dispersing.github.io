@@ -8,13 +8,14 @@ author_profile: true
 
 | **Status** | **Title**  | **Author(s)** | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |------------|------------|---------------|--------------|-----------|------------|-----------|-----------|------------|
-| In press   | Continent-wide tree fecundity driven by indirect climate effects | J.S. Clark et al. | Nature Communications | | | | | |
+<!--- | In press   | Continent-wide tree fecundity driven by indirect climate effects | J.S. Clark et al. | Nature Communications | | | | | | --->
 
 ## Peer-reviewed publications
 
 | **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Link**     | **Reprint**  | **Code**  | **Data**  | **Notes**  |
 |-----------|------------|----------------|--------------|--------------|--------------|-----------|-----------|------------|
-| 2020 | Trends and transitions in 150 years of The American Naturalist | V.B Smocovitis, D.I. Bolnick, C.M. Moore, P.L. Morse |  The American Naturalist | [Link](https://www.journals.uchicago.edu/doi/full/10.1086/711418) | Open access|| [Data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.msbcc2fw9) | |
+| 2021 | Continent-wide tree fecundity driven by indirect climate effects | James S. Clark and 61 others | Nature Communications | [Link](https://www.nature.com/articles/s41467-020-20836-3) | Open access | [Code](https://cran.r-project.org/web/packages/mastif/index.html) | [Data](https://research.repository.duke.edu/concern/datasets/sn009z63q?locale=en) | |
+| 2020 | Trends and transitions in 150 years of The American Naturalist | V.B Smocovitis, D.I. Bolnick, C.M. Moore, P.L. Morse | The American Naturalist | [Link](https://www.journals.uchicago.edu/doi/full/10.1086/711418) | Open access || [Data](https://datadryad.org/stash/dataset/doi:10.5061/dryad.msbcc2fw9) | |
 | 2020 | On mutualism, models, and masting: the effects of seed-dispersing animals on the plants they disperse | C.M. Moore, J.W. Dittel | Journal of Ecology | [Link](http://dx.doi.org/10.1111/1365-2745.13414) | Open access ||| Forum article|
 | 2020 | Fast and slow advances toward a deeper integration of theory and empiricism | K.C. Abbott, F. Ji, C.R. Stieha, C.M. Moore | Theoretical Ecology | [Link](https://link.springer.com/article/10.1007/s12080-019-00441-x) | [Reprint](/Publications/reprints/Abbott_et_al._2020.pdf) ||| |
 | 2019 | The mismatch in distributions of vertebrates and the plants that they disperse |  J.W. Dittel, C.M. Moore, S.B. Vander Wall | Ecography  |  [Link](https://onlinelibrary.wiley.com/doi/10.1111/ecog.03876) | Open access  | [Link](https://github.com/dispersing/SpatialRandomizations) | [Data](https://datadryad.org/resource/doi:10.5061/dryad.cp39t21) | Named Editor's Choice|
