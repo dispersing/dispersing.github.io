@@ -42,5 +42,5 @@ title: Publications
 - 2011, Invasives: Classify with Care, C.M. Moore, *Science*, [Link](http://www.sciencemag.org/content/333/6045/936.2), [Reprint](/Publications/reprints/Moore_2011.pdf), Letter
 - 2009, Let's Give Them Something To Talk About, C.M. Moore, *Frontiers in Ecology and the Environment*, [Link](http://www.esajournals.org/doi/abs/10.1890/1540-9295-7.9.501), [Reprint](/Publications/reprints/Moore_and_Forister_2009.pdf), Letter
 
-&dagger;: Undergradaute coauthor
+&dagger;: Undergraduate or graduate student mentee<br>
 &Dagger;: Joint first author
