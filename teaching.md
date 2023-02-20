@@ -3,27 +3,11 @@ layout: page
 title: Teaching
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
-
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
-
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I have been teaching at Colby College since fall of 2017. In that time I have taught courses in:
+- Ecology (Fall '17–'19 and '22)
+- Population modeling (Spring '18–'20 and fall '21–'22)
+- Evolutionary analysis (Fall '21 and spring '23)
+- Entomology (Coming fall 23!)
+- Evolution and diversity (Spring '22–'23)
+- Biology seminar (Fall '22 and spring '23)
+- Ecology and evolution of infectious disease (Spring '20)
