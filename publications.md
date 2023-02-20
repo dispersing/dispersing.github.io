@@ -9,8 +9,10 @@ title: Publications
 
 | **Status** | **Title**  | **Author(s)** | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |------------|------------|---------------|--------------|-----------|------------|-----------|-----------|------------|
+| Submitted | Latitude, traits, and phylogeny determine variability in herbivore attack | Robinson and **X** others | Nature | || | | |
 | Submitted | Mutualist dispersers and the global distribution of masting: mediation by climate and fertility | Journé and 93 others | Nature Plants | || | | |
-| In press | Introduction to quantitative ecology: mathematical and statistical modelling for beginners by T.E. Essington, 2021 | J.D.T. Savage and C.M. Moore | The Quarterly Review of Biology | | | | | Book review |
+| In review | Mutualisms in a Warming World | Cruz, Davidowitz, Moore, and Bronstein | Ecology Letters | || | | |
+| In press | The Movement Ecology of Mutualism (CSEE/ESA 2022, OOS17) | Moore&dagger, Shaw&dagger, and 6 others | Bulletin of the Ecological Society of America | || | | |
 
 ## Peer-reviewed publications
 
@@ -41,8 +43,11 @@ title: Publications
 
 | **Year**  | **Title**  | **Author(s)**  | **Journal**  | **Link**  | **Reprint** | **Notes**  |
 |-----------|------------|----------------|--------------|--------------|----------|-----------|
+| 2022 | Introduction to quantitative ecology: mathematical and statistical modelling for beginners by T.E. Essington, 2021 | J.D.T. Savage and C.M. Moore | The Quarterly Review of Biology |[Link](https://www.journals.uchicago.edu/doi/abs/10.1086/722660) | [Link](https://drive.google.com/file/d/1st-ybtlzB6vnpaESNzA5kUyhXPyYgJ56/view?usp=sharing) | Book review |
 | 2014 | Seed Dispersal and Seed Dispersal Syndromes in Manzanitas, and Other Higher Plants	 | C.M. Moore	 | University of Nevada, Reno	 | [Link](http://gradworks.umi.com/36/26/3626102.html) | [Reprint](/Publications/reprints/Moore_2014_Dissertation.pdf) | Dissertation |
 | 2014 | The Jepson Manual: Vascular Plants of California	 | C.M. Moore	 | Western North American Naturalist	 | [Link](http://scholarsarchive.byu.edu/wnan/vol74/iss1/16/) | [Reprint](/Publications/reprints/Moore_2014.pdf) | Book review |
 | 2011 | Pollination and Floral Ecology	 | C.M. Moore	 | Plant Science Bulletin	 | [Link](http://www.botany.org/PlantScienceBulletin/PSB-2011-57-4.pdf) | [Reprint](/Publications/reprints/Moore_2011_PSB.pdf) | Book review |
 | 2011 | Invasives: Classify with Care	 | C.M. Moore	 | Science	 | [Link](http://www.sciencemag.org/content/333/6045/936.2) | [Reprint](/Publications/reprints/Moore_2011.pdf) | Letter |
 | 2009 | Let's Give Them Something To Talk About	| C.M. Moore	 | Frontiers in Ecology and the Environment	 | [Link](http://www.esajournals.org/doi/abs/10.1890/1540-9295-7.9.501) | [Reprint](/Publications/reprints/Moore_and_Forister_2009.pdf) | Letter |
+
+&dagger: Joint first author
