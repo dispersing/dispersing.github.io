@@ -3,27 +3,35 @@ layout: page
 title: Contact
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+## Mail
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### Email
+cmmoore [the appropriate ending for a Colby College email address]
 
-There are currently two themes built on Poole:
+### Office
+Room: Olin 216
+Phone:  207-859-5746
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Labratory
+Room: Olin 214
+Phone:  207-859-5744
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+### Snail mail
+Colby College
+Biology Department
+5746 Mayflower Hill Drive
+Waterville, Maine 04901, United States
 
-## Setup
+## Social media
+[ResearchGate&#58; <i class="ai ai-researchgate"></i>](https://www.researchgate.net/profile/Christopher_Moore17)
 
-Some fun facts about the setup of this project include:
+## Other
+[GitHub&#58; ColbyEcology](http://github.com/ColbyEcology)
+[GitHub&#58; dispersing](http://github.com/dispersing)
+[Google Scholar&#58; <i class="ai ai-google-scholar"></i>](https://scholar.google.com/citations?user=-XqTzHsAAAAJ&hl=en)
+[ORCID&#58; <i class="ai ai-orcid"></i>](https://orcid.org/0000-0001-5783-9833)
+[iNaturalist&#58; <i class="fa fa-leaf" aria-hidden="true"></i>](http://www.inaturalist.org/people/ecologistchris)
 
-* Built for [Jekyll](https://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Atom](https://atom.io)
+## Chris and Morro manzanita (*Actrostaphylos morroensis*) in 2011
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<img src="/images/Morro.png" alt="Chris and Actrostaphylos morroensis" style="width:200px;height:200px;" onmouseover="this.src='/images/Morro_old.png'" onmouseout="this.src='/images/Morro.png'">
