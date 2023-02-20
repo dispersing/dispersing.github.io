@@ -6,6 +6,10 @@ title: Publications
 
 ## Preprint, submitted, accepted, or in press
 
+- *Submitted*, Latitude, traits, and phylogeny determine variability in herbivore attack, Robinson and *X* others, Nature
+- *Submitted*, Mutualist dispersers and the global distribution of masting: mediation by climate and fertility, Journé and 93 others, Nature Plants
+- *In review*, Mutualisms in a Warming World , Cruz, Davidowitz, Moore, and Bronstein, Ecology Letters
+- *In press*; The Movement Ecology of Mutualism (CSEE/ESA 2022, OOS17); Moore&dagger;, Shaw&dagger;, and 6 others; Bulletin of the Ecological Society of America
 
 | **Status** | **Title**  | **Author(s)** | **Journal**  | **Link**  | **Print**  | **Code**  | **Data**  | **Notes**  |
 |------------|------------|---------------|--------------|-----------|------------|-----------|-----------|------------|
