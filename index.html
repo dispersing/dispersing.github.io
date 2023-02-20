@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-
+This is test text 1
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
@@ -18,7 +18,7 @@ title: Home
   </div>
   {% endfor %}
 </div>
-
+This is test text 2
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
@@ -35,3 +35,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+This is test text 3
