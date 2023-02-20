@@ -3,7 +3,7 @@ title:               Mutualism Ecology
 tagline:             'Chris Moore'
 description:         ''
 url:                 https://mutualismecology.com
-baseurl:             'mutualismecology.com'
+baseurl:
 paginate:            3
 permalink:           pretty
 
