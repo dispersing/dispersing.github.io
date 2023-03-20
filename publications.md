@@ -6,7 +6,7 @@ title: Publications
 
 ## Preprint, submitted, accepted, or in press
 
-- *Submitted*, Latitude, traits, and phylogeny determine variability in herbivore attack, Robinson and *X* others, *Nature*
+- *Submitted*, Latitude, traits, and phylogeny determine variability in herbivore attack, Robinson and 190 others, *Nature*
 - *Submitted*, Mutualist dispersers and the global distribution of masting: mediation by climate and fertility, Journé and 93 others, *Nature Plants*
 - *In review*, Mutualisms in a Warming World , Cruz, Davidowitz, Moore, and Bronstein, *Ecology Letters*
 
