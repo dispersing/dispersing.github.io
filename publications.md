@@ -9,7 +9,6 @@ title: Publications
 - *Submitted*, Latitude, traits, and phylogeny determine variability in herbivore attack, Robinson and *X* others, *Nature*
 - *Submitted*, Mutualist dispersers and the global distribution of masting: mediation by climate and fertility, Journé and 93 others, *Nature Plants*
 - *In review*, Mutualisms in a Warming World , Cruz, Davidowitz, Moore, and Bronstein, *Ecology Letters*
-- *In press*, The Movement Ecology of Mutualism (CSEE/ESA 2022, OOS17), Moore&Dagger;, Shaw&Dagger;, and 6 others, *Bulletin of the Ecological Society of America*
 
 
 ## Peer-reviewed publications
@@ -35,6 +34,8 @@ title: Publications
 
 ## Other publications
 
+- 2023, The Movement Ecology of Mutualism (CSEE/ESA 2022, OOS17), Moore&Dagger;, Shaw&Dagger;, and 6 others, *Bulletin of the Ecological Society of America*, [Link](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.2063), **Open access**
+- 2022, Introduction to quantitative ecology: mathematical and statistical modelling for beginners by T.E. Essington, 2021, J.D.T. Savage&dagger; and C.M. Moore, *The Quarterly Review of Biology*, [Link](https://www.journals.uchicago.edu/doi/abs/10.1086/722660), [Reprint](https://drive.google.com/file/d/1st-ybtlzB6vnpaESNzA5kUyhXPyYgJ56/view?usp=sharing), Book review
 - 2022, Introduction to quantitative ecology: mathematical and statistical modelling for beginners by T.E. Essington, 2021, J.D.T. Savage&dagger; and C.M. Moore, *The Quarterly Review of Biology*, [Link](https://www.journals.uchicago.edu/doi/abs/10.1086/722660), [Reprint](https://drive.google.com/file/d/1st-ybtlzB6vnpaESNzA5kUyhXPyYgJ56/view?usp=sharing), Book review
 - 2014, Seed Dispersal and Seed Dispersal Syndromes in Manzanitas, and Other Higher Plants, C.M. Moore, *University of Nevada, Reno*, [Link](http://gradworks.umi.com/36/26/3626102.html), [Reprint](/Publications/reprints/Moore_2014_Dissertation.pdf), Dissertation
 - 2014, The Jepson Manual: Vascular Plants of California, C.M. Moore, *Western North American Naturalist*, [Link](http://scholarsarchive.byu.edu/wnan/vol74/iss1/16/), [Reprint](/Publications/reprints/Moore_2014.pdf), Book review
