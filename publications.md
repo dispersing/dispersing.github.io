@@ -9,7 +9,7 @@ title: Publications
 - *Preprint, in review*, How do host population dynamics impact Lyme disease risk dynamics in theoretical models?, J.D.T. Savage&dagger; and C.M. Moore, *PLoS Biology*, [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.24.538192v1)
 - *In revision*, Latitude, traits, and phylogeny determine variability in herbivore attack, Robinson and 190 others, *Science*
 - *Accepted*, Masting is uncommon in trees that depend on mutualist dispersers in the context of global climate and fertility gradients, Qui and 93 others, *Nature Plants*
-- *Accepted*, Mutualisms in a Warming World , Cruz, Davidowitz, Moore, and Bronstein, *Ecology Letters*
+- *In print*, Mutualisms in a Warming World , Cruz, Davidowitz, Moore, and Bronstein, *Ecology Letters*, [Early View](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14264)
 
 
 ## Peer-reviewed publications
