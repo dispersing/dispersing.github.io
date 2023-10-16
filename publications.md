@@ -7,12 +7,13 @@ title: Publications
 ## Preprint, submitted, accepted, or in press
 
 - *Preprint, in review*, How do host population dynamics impact Lyme disease risk dynamics in theoretical models?, J.D.T. Savage&dagger; and C.M. Moore, *PLoS Biology*, [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.24.538192v1)
-- *In revision*, Latitude, traits, and phylogeny determine variability in herbivore attack, Robinson and 190 others, *Science*
-- *In print*, Mutualisms in a Warming World , Cruz, Davidowitz, Moore, and Bronstein, *Ecology Letters*, [Early View](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14264)
+- *In press*, Latitude, traits, and phylogeny determine variability in herbivore attack, Robinson and 190 others, *Science*
+
 
 
 ## Peer-reviewed publications
 
+- 2023, Mutualisms in a Warming World , Cruz, Davidowitz, Moore, and Bronstein, *Ecology Letters*, [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14264)
 - 2023, Masting is uncommon in trees that depend on mutualist dispersers in the context of global climate and fertility gradients, Qiu and 94 others, *Nature Plants*, [Link](https://www.nature.com/articles/s41477-023-01446-5), [Reprint](https://drive.google.com/file/d/1fVE1MGprwruOspmc5-wanfw0HHljHUiF/view?usp=sharing)
 - 2022, Globally, tree fecundity exceeds productivity gradients, V. Journé and 93 others, *Ecology Letters*, [Link](https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14012?casa_token=t6kShsh6qR4AAAAA:rrDgzzLJaPu19JhqH9fjRPEsnbQ2M6pstBn-XIEDsVfco4FdjmLnAvsofoLvqylXqCGVReGeKT7o9ZI), **Open access**
 - 2022, Limits to reproduction and seed size-number trade-offs that shape forest dominance and future recovery, T. Qiu and 102 others, *Nature Communications*, [Link](https://www.nature.com/articles/s41467-022-30037-9), **Open access**, [Code](https://cran.r-project.org/web/packages/mastif/index.html), [Data](https://research.repository.duke.edu/concern/datasets/sn009z63q?locale=en)
