@@ -5,12 +5,11 @@ title: Publications
 
 
 ## Preprint, submitted, accepted, or in press
-- *Submitted*, When the window is a mirror: how do dominant theories limit our understanding of nature? (ESA 2023 INS23), A. Simha, A. James, J. Monk, H. Zou, P. Ke, A. Wright, M. Bimler, C. Moore, S. Pierre, L. CarleyG. and Kandlikar, *Bulletin of the Ecological Society of America*
-- *Preprint, in review*, How do host population dynamics impact Lyme disease risk dynamics in theoretical models?, J.D.T. Savage&dagger; and C.M. Moore, *PLoS Biology*, [Preprint](https://www.biorxiv.org/content/10.1101/2023.04.24.538192v1)
+- *In press*, When the window is a mirror: how do dominant theories limit our understanding of nature? (ESA 2023 INS23), A. Simha, A. James, J. Monk, H. Zou, P. Ke, A. Wright, M. Bimler, C. Moore, S. Pierre, L. CarleyG. and Kandlikar, *Bulletin of the Ecological Society of America*, [Link](https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.2145)
 
 
 ## Peer-reviewed publications
-
+- 2023, How do host population dynamics impact Lyme disease risk dynamics in theoretical models?, Savage and Moore, *PLOS ONE*, [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302874), **Open access**
 - 2023, Latitude, traits, and phylogeny determine variability in herbivore attack, Robinson and 190 other, *Science*, [Link](https://www.science.org/doi/10.1126/science.adh8830)
 - 2023, Mutualisms in a Warming World, Cruz, Davidowitz, Moore, and Bronstein, *Ecology Letters*, [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14264)
 - 2023, Masting is uncommon in trees that depend on mutualist dispersers in the context of global climate and fertility gradients, Qiu and 94 others, *Nature Plants*, [Link](https://www.nature.com/articles/s41477-023-01446-5), [Reprint](https://drive.google.com/file/d/1fVE1MGprwruOspmc5-wanfw0HHljHUiF/view?usp=sharing)
