@@ -5,11 +5,11 @@ title: Publications
 
 
 ## Preprint, submitted, accepted, or in press
-- *In press*, When the window is a mirror: how do dominant theories limit our understanding of nature? (ESA 2023 INS23), A. Simha, A. James, J. Monk, H. Zou, P. Ke, A. Wright, M. Bimler, C. Moore, S. Pierre, L. CarleyG. and Kandlikar, *Bulletin of the Ecological Society of America*, [Link](https://esajournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/bes2.2145)
+- *In review*, Theoretical Models of Obligate Mutualism to Link Micro- with Macro-Coevolutionary Dynamics, C. Diaz Eaton and C.M. Moore, BioRXiv preprint, [Link](https://www.biorxiv.org/content/10.1101/2024.05.16.594543v1.abstract)
 
 
 ## Peer-reviewed publications
-- 2023, How do host population dynamics impact Lyme disease risk dynamics in theoretical models?, Savage and Moore, *PLOS ONE*, [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302874), **Open access**
+- 2024, How do host population dynamics impact Lyme disease risk dynamics in theoretical models?, J.T. Savage and C.M. Moore, *PLOS ONE*, [Link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0302874), **Open access**
 - 2023, Latitude, traits, and phylogeny determine variability in herbivore attack, Robinson and 190 other, *Science*, [Link](https://www.science.org/doi/10.1126/science.adh8830)
 - 2023, Mutualisms in a Warming World, Cruz, Davidowitz, Moore, and Bronstein, *Ecology Letters*, [Link](https://onlinelibrary.wiley.com/doi/abs/10.1111/ele.14264)
 - 2023, Masting is uncommon in trees that depend on mutualist dispersers in the context of global climate and fertility gradients, Qiu and 94 others, *Nature Plants*, [Link](https://www.nature.com/articles/s41477-023-01446-5), [Reprint](https://drive.google.com/file/d/1fVE1MGprwruOspmc5-wanfw0HHljHUiF/view?usp=sharing)
@@ -34,6 +34,7 @@ title: Publications
 
 ## Other publications
 
+- 2024, When the window is a mirror: how do dominant theories limit our understanding of nature? (ESA 2023 INS23), A. Simha, A. James, J. Monk, H. Zou, P. Ke, A. Wright, M. Bimler, C. Moore, S. Pierre, L. CarleyG. and Kandlikar, *Bulletin of the Ecological Society of America*, [Link](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.2145), **Open access**
 - 2023, The Movement Ecology of Mutualism (CSEE/ESA 2022, OOS17), Moore&Dagger;, Shaw&Dagger;, and 6 others, *Bulletin of the Ecological Society of America*, [Link](https://esajournals.onlinelibrary.wiley.com/doi/10.1002/bes2.2063), **Open access**
 - 2022, Introduction to quantitative ecology: mathematical and statistical modelling for beginners by T.E. Essington, 2021, J.D.T. Savage&dagger; and C.M. Moore, *The Quarterly Review of Biology*, [Link](https://www.journals.uchicago.edu/doi/abs/10.1086/722660), [Reprint](https://drive.google.com/file/d/1st-ybtlzB6vnpaESNzA5kUyhXPyYgJ56/view?usp=sharing), Book review
 - 2014, Seed Dispersal and Seed Dispersal Syndromes in Manzanitas, and Other Higher Plants, C.M. Moore, *University of Nevada, Reno*, [Link](http://gradworks.umi.com/36/26/3626102.html), [Reprint](/Publications/reprints/Moore_2014_Dissertation.pdf), Dissertation
